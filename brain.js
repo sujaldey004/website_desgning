@@ -1,0 +1,1 @@
+alert("This website owner is crazy be aware")
